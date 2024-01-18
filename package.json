@@ -1,0 +1,1 @@
+{"name":"etherealengine-11cbcc30-fd2d-11ea-bc7c-cd4cac9a8d11-backup","version":"0.0.0","description":"","main":"","etherealEngine":{"version":"1.6.0"},"scripts":{"check-errors":"tsc --noemit","test":"mocha --config .mocharc.js"},"dependencies":{},"peerDependencies":{},"license":"ISC"}
